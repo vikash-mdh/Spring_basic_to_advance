@@ -1,0 +1,7 @@
+package org.example.Object_Oriented_Programing_2;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+}
